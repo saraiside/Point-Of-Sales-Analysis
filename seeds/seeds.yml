@@ -1,0 +1,12 @@
+seeds:
+- name: csv_web_orders
+  config:
+    enabled: true
+- name: csv_channels
+  config:
+    enabled: true
+- name: csv_lead_funnel
+  config:
+    enabled: true
+
+
